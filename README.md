@@ -1,4 +1,4 @@
-## Olá, sou Lucas Araujo 👋
+## Hi there, I'm Lucas Araujo 👋
 
-- 📚 Atualmente estudando: HTML, CSS
-- 🚀 Próximas etapas: SQL, NODE  
+- 📚 Currently studying: HTML, CSS
+- 🚀 Next steps: SQL, NODE
